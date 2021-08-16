@@ -3,7 +3,7 @@
 # Purpose: To automatically create weekly folders for AMU or NCSU Classes
 # Use Limitations: None
 # Last Updated: 2 August, 2021
-# I removed this first commit line and now have access to work with GITHUB
+# I added this line to check changes within github
 #****************************
 
 #import modules
